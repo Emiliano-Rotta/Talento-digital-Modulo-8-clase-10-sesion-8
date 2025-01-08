@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  input, button {
+    margin: 10px;
+    padding: 8px;
+  }
+  
+  #protected-data {
+    margin-top: 20px;
+    font-size: 18px;
+    color: green;
+  }
+  
